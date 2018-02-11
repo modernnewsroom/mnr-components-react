@@ -1,4 +1,6 @@
-<img width="35%" style="margin: 0 auto" src="https://i.imgur.com/OZOLEh2.png" />
+<p align="center">
+  <img align="center" width="35%" src="https://i.imgur.com/OZOLEh2.png" alt="Modern Newsroom logo" />
+</p>
 
 ---
 
